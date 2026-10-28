@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-10-28T15:00:48",
+  "description": "Official Piko 3.10.0 bundle by crimera (GPL-3.0), mirrored as a personal Morphe source. 136 patches total: 75 for X (Twitter) targeting X 12.19.1-release.0 (com.twitter.android, APKM bundle) and 61 for Instagram. Needs Morphe Manager 2.0.0 or newer. The .mpp is a patch bundle, not an X APK.",
+  "download_url": "https://github.com/DangTruong96/truong-x-patches/releases/download/x-2026.10.28/patches-3.10.0.mpp",
+  "signature_download_url": "",
+  "version": "3.10.0"
+}
